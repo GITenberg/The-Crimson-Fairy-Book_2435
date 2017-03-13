@@ -1,5 +1,8 @@
 _repo: The-Crimson-Fairy-Book_2435
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lang, Andrew
@@ -28,6 +31,8 @@ description: 'A storyteller''s night without one of Mr. Andrew Lang''s books of 
   The Horse Gullfaxi And The Sword Gunnfoder The Story Of The Sham Prince, Or The
   Ambitious Tailor The Colony Of Cats How To Find Out A True Friend Clever Maria The
   Magic Kettle.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2435#The-Crimson-Fairy-Book
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2000-12-01'
 gutenberg_type: Text
